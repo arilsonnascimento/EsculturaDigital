@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1667778956 source:c:\users\arilson nascimento\onedrive\meuprojetosculptor_progavancada\sculptor\sculptor.cpp
+	"sculptor.h"
+	<iostream>
+	<cmath>
+	<fstream>
+	<cstdlib>
+
+1667881303 source:c:\users\arilson nascimento\onedrive\meuprojetosculptor_progavancada\sculptor\main.cpp
+	<iostream>
+	"sculptor.h"
+
+1667879175 c:\users\arilson nascimento\onedrive\meuprojetosculptor_progavancada\sculptor\sculptor.h
+	"voxel.h"
+
+1667740199 c:\users\arilson nascimento\onedrive\meuprojetosculptor_progavancada\sculptor\voxel.h
+

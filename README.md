@@ -2,6 +2,7 @@
 Projeto da interface do escultor 3D referente à segunda unidade da disciplina de Programação Avançada (DCA0803) da Universidade Federal do Rio Grande do Norte (UFRN).
 
 
+COMPONENTE:
 Arilson Carlos do Nascimento
 
 
